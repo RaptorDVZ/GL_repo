@@ -9,5 +9,5 @@ function app(){
    
 }
 
-var total= app(3,5,8);
+var total= app(3,5,8,10);
 console.log(total);
