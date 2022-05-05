@@ -1,4 +1,3 @@
 function myfunc(){
-    url='https://www.youtube.com/watch?v=QRp51RpZJms&ab_channel=RobbieMorris'
-   window.open(url);
+      window.open('https://www.youtube.com/watch?v=HFFlEDw-1SI&ab_channel=BikramVirk');
   }
